@@ -4,6 +4,7 @@ https://github.com/mason-org/mason.nvim/issues/1578
 # Solution:
 https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2455253723
 - https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2725266573
+- https://github.com/mason-org/mason.nvim/issues/1578#issuecomment-2927987751
 
 # sch:
 - https://www.google.com/search?q=mason+aarch64+The+current+platform+is+unsupported
